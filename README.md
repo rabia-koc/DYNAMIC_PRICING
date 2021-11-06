@@ -20,7 +20,7 @@
 
 # SIMULATION
 
-* I simulated income for different prices. The simulation technique was the Monte Carlo simulation. As a result, we learned that the best price for all categories is $34.99.
+* I simulated income for different prices. Price ranges were obtained with a 95% confidence interval. The simulation technique was the Monte Carlo simulation. As a result, we learned that the best price for all categories is $34.99.
 
 https://user-images.githubusercontent.com/73841520/140619490-448de034-f9b5-4993-9838-7777ff0a417b.mp4
 
