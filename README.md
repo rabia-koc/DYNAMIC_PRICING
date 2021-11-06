@@ -16,7 +16,7 @@
 * ▪ 675201 
 * ▪ 201436
 
-* Price - Sales amount
+* Price - Sales Amount
 
 # SIMULATION
 
