@@ -20,7 +20,7 @@
 
 # SIMULATION
 
-* I simulated income for different prices. Price ranges were obtained with a 95% confidence interval. The simulation technique was the Monte Carlo simulation. As a result, we learned that the best price for all categories is $34.99.
+* I simulated income for different prices. Price ranges were obtained with a 95% confidence interval. The simulation technique was the Monte Carlo simulation. As a result, we learned that the best price for all categories is $34.99. E.g; The price of $34.99 was chosen because fractional prices are suitable for real-life scenarios. Customers often psychologically perceive partial prices, such as $34.99, to be cheaper than full-priced products. I wanted to apply this reverse psychology in the simulation here and decided that this was the most likely price.
 
 https://user-images.githubusercontent.com/73841520/140619490-448de034-f9b5-4993-9838-7777ff0a417b.mp4
 
