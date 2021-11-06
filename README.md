@@ -8,7 +8,7 @@
 
 # VARIABLES
 ------------------------------------------------------------------------------
-* category_id – Item Categories
+* Category_id – Item Categories
 * ▪ 489756 
 * ▪ 874521 
 * ▪ 361254
@@ -17,3 +17,8 @@
 * ▪ 201436
 
 * Price - Sales amount
+
+# SIMULATION
+
+https://user-images.githubusercontent.com/73841520/140619490-448de034-f9b5-4993-9838-7777ff0a417b.mp4
+
